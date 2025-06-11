@@ -10,3 +10,5 @@ ARTS：每周至少做一个 leetcode 的算法题、阅读并点评至少一篇
 另外，今天刚好有看到了这么一个说法 “GitHub Issues（几乎）是世界最好的笔记应用”，计划就用 GitHub Issues 来记录每周的完成情况。
 
 -----2025.06.06-----
+[ARTS(2025.06.02~2025.06.08)](https://github.com/ckaesar/ARTS/issues/1)
+-----2025.06.08-----
